@@ -6,6 +6,7 @@
 
 <h5>Запуск</h5>
 <p>Для запуска программы нужно выполнить следующую команду</p>
+<pre>
 <code>
 python main.py [-en] [--n]
 -en    меняет язык, с которого нужно переводить на английский
@@ -14,3 +15,4 @@ python main.py [-en] [--n]
 python main.py
 python main.py -en --n=4
 </code>
+</pre>
