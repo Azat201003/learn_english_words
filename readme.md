@@ -16,3 +16,7 @@ python main.py -en --n=4</code>
 </pre>
 
 <p>я использовал все слова данные на почту для зачёта</p>
+
+
+https://github.com/user-attachments/assets/4528c4f5-e5d1-48b3-90f8-c1d8561ffa61
+
